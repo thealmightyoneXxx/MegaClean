@@ -75,6 +75,7 @@ namespace MegaClean
 
         private void Grid_Scroll(object sender, System.Windows.Controls.Primitives.ScrollEventArgs e)
         {
+             
 
         }
     }
